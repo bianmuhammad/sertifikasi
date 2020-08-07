@@ -24,15 +24,14 @@ move kalkulator to C:\xampp\htdocs
 
 using wamp
 move kalkulator to C:\wamp\www
+```
+# Usage
 
-## Usage
-
-
+```bash
 open browser
-
 ```
 insert address in browser
 ```
 localhost/kalkulator
 ```
-klik tombol ![mulai hitung]
+klik tombol `mulai hitung`
