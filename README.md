@@ -28,6 +28,7 @@ move kalkulator to C:\wamp\www
 localhost/kalkulator
 ```
 * klik tombol `Mulai Hitung`
+
 ![Halaman Utama](../master/img/1.png)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
