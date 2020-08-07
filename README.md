@@ -27,7 +27,7 @@ move kalkulator to C:\wamp\www
 
 ## Usage
 
-```bash
+
 open browser
 
 ```
@@ -35,4 +35,4 @@ insert address in browser
 ```
 localhost/kalkulator
 ```
-klik tombol *mulai hitung*
+klik tombol ![mulai hitung]
