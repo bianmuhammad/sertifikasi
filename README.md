@@ -41,15 +41,15 @@ localhost/kalkulator/index.php
 
 * klik tombol `Mulai Hitung`
 
-![Halaman Utama](https://github.com/bianmuhammad/sertitifikasi/blob/master/img/1.png)
+![Halaman Utama](https://github.com/bianmuhammad/sertifikasi/blob/master/img/1.png)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
 
-![Input Bilangan](https://github.com/bianmuhammad/sertitifikasi/blob/master/img/2.png)
+![Input Bilangan](https://github.com/bianmuhammad/sertifikasi/blob/master/img/2.png)
 
 * klik tombol `Hitung` untuk menampilkan hasil
 
-![result](https://github.com/bianmuhammad/sertitifikasi/blob/master/img/3.png)
+![result](https://github.com/bianmuhammad/sertifikasi/blob/master/img/3.png)
 
 * klik tombol `Batal` untuk membatalkan proses
 
