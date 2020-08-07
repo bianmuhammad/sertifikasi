@@ -29,7 +29,7 @@ localhost/kalkulator
 ```
 * klik tombol `Mulai Hitung`
 
-![Halaman Utama](../master/img/1.png)
+![Halaman Utama](https://drive.google.com/file/d/1m7gx0-DvF9Sx9NSsR23oI7j3IIGEwmUv/view?usp=sharing)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
 
