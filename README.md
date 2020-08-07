@@ -31,9 +31,9 @@ localhost/kalkulator
 ![Halaman Utama](https://raw.githubusercontent.com/bianmuhammad/sertifikasi/img/1.png)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
-![Input Bilangan](../master/img/2.PNG)
+![Input Bilangan](../master/img/2.png)
 * klik tombol `Hitung` untuk menampilkan hasil
-![result](../../tree/master/img/3.PNG)
+![result](../master/img/3.PNG)
 * klik tombol `Batal` untuk membatalkan proses
 
 ## License
