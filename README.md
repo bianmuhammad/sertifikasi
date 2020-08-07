@@ -28,10 +28,10 @@ move kalkulator to C:\wamp\www
 localhost/kalkulator
 ```
 * klik tombol `Mulai Hitung`
-!(img/1.PNG)
+![Halaman Utama](https://raw.githubusercontent.com/bianmuhammad/sertifikasi/img/1.png)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
-![Input Bilangan](img/2.PNG)
+![Input Bilangan](../master/img/2.PNG)
 * klik tombol `Hitung` untuk menampilkan hasil
 ![result](img/3.PNG)
 * klik tombol `Batal` untuk membatalkan proses
