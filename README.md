@@ -28,12 +28,12 @@ move kalkulator to C:\wamp\www
 localhost/kalkulator
 ```
 * klik tombol `Mulai Hitung`
-![Halaman Utama](https://raw.githubusercontent.com/bianmuhammad/sertifikasi/img/1.png)
+![Halaman Utama](../master/img/1.png)
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
 ![Input Bilangan](../master/img/2.png)
 * klik tombol `Hitung` untuk menampilkan hasil
-![result](../master/img/3.PNG)
+![result](../master/img/3.png)
 * klik tombol `Batal` untuk membatalkan proses
 
 ## License
