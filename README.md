@@ -33,7 +33,7 @@ localhost/kalkulator
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
 ![Input Bilangan](../master/img/2.PNG)
 * klik tombol `Hitung` untuk menampilkan hasil
-![result](../../img/3.PNG)
+![result](../../tree/master/img/3.PNG)
 * klik tombol `Batal` untuk membatalkan proses
 
 ## License
