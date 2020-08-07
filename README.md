@@ -6,6 +6,33 @@ Sistem ini adalah sistem untuk menghitung proses pertambahan, pengurangan, perka
 
 
 # Requirements
-PHP >= 5.3.7
+* PHP >= 5.3.7
+* Bootstrap 4.0
+* Jquery 3.2.1
+* Popper.js 1.12.9
 
-## WaduhLagi
+# Installation
+
+Download
+[program](https://drive.google.com/drive/folders/1F4dmn0W4b-XWR79SiwI7U6nCFY3Lt59C?usp=sharing) to install aplikasi kalkulator.
+
+```bash
+unzip kalkulator.rar
+
+using xampp
+move kalkulator to C:\xampp\htdocs
+
+using wamp
+move kalkulator to C:\wamp\www
+
+## Usage
+
+```bash
+open browser
+
+```
+insert address in browser
+```
+localhost/kalkulator
+```
+klik tombol *mulai hitung*
