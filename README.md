@@ -33,11 +33,11 @@ localhost/kalkulator
 
 * masukan **bilangan 1** dan **bilangan 2** yang akan dihitung pada kalkulator
 
-![Input Bilangan](../master/img/2.png)
+![Input Bilangan](https://github.com/bianmuhammad/sertitifikasi/blob/master/img/2.png)
 
 * klik tombol `Hitung` untuk menampilkan hasil
 
-![result](../master/img/3.png)
+![result](https://github.com/bianmuhammad/sertitifikasi/blob/master/img/3.png)
 
 * klik tombol `Batal` untuk membatalkan proses
 
